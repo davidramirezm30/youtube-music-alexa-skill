@@ -15,7 +15,7 @@ You can download NodeJS for your platform and follow instructions from [https://
 
 2. You need an [AWS account](https://aws.amazon.com) and an [Amazon developer account](https://developer.amazon.com) to create an Alexa Skill.
 
-3. You need to install and configure the [AWS CLI](https://aws.amazon.com/cli/)
+3. You need to install and configure the [AWS CLI]([https://aws.amazon.com/cli/](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 4. You need to install and to initialize [ASK CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html) with
 
