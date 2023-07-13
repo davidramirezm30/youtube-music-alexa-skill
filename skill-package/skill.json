@@ -32,7 +32,8 @@
             "Alexa open youtube"
           ],
           "name": "Youtube Music",
-          "description": "Alexa skill to play youtube music on Alexa devices",
+          "description": "Alexa skill to play youtube music on Alexa devices"
+        },
         "de-DE": {
           "summary": "Alexa Youtube Music Skill",
           "examplePhrases": [
