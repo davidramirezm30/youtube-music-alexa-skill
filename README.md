@@ -19,7 +19,7 @@ You can download NodeJS for your platform and follow instructions from [https://
 
 4. You need to install and to initialize [ASK CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html) with
 
-5. Generate a google cloud API with `YouTube Data API v3` restriction, and add a it to the lambda function as an environment variable with the name `YOUTUBE_API_KEY`
+5. Generate a [Google Cloud API](https://console.cloud.google.com/apis/credentials) with `YouTube Data API v3` restriction, and add a it to the lambda function as an environment variable with the name `YOUTUBE_API_KEY`
 
 ### Deployment
 
