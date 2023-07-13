@@ -10,8 +10,7 @@ Anyone is free to publish the skill in their AWS account so that non-tech savvy 
 is some skill that is available please raise a PR so that, the link to the skill can be added here
 
 #### Setting up the skill
-1. You need to have NodeJS and ```npm``` installed.  
-You can download NodeJS for your platform and follow instructions from [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+1. You need to have last version of NodeJS and ```npm``` installed from [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
 2. You need an [AWS account](https://aws.amazon.com) and an [Amazon developer account](https://developer.amazon.com) to create an Alexa Skill.
 
