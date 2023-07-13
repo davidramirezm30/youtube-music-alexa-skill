@@ -65,14 +65,6 @@
           ],
           "name": "Youtube Music",
           "description": "Skill  Alexa para reproduzir música do youtube em dispositivos Alexa"
-        },
-        "pt-PT": {
-          "summary": "Alexa Youtube Music Skill",
-          "examplePhrases": [
-            "Alexa abre o youtube"
-          ],
-          "name": "Youtube Music",
-          "description": "Skill Alexa para reproduzir música do youtube em dispositivos Alexa"
         }
       },
       "isAvailableWorldwide": false,
