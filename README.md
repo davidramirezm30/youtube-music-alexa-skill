@@ -24,7 +24,7 @@ is some skill that is available please raise a PR so that, the link to the skill
 
 ASK will create the skill and the lambda function for you.
 
-Lambda function will be created in ```eu-west-1```.
+Lambda function will be created in ```eu-west-3```.
 
 You deploy the skill and the lambda function in one step :
 
