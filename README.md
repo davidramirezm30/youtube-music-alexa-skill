@@ -14,7 +14,7 @@ is some skill that is available please raise a PR so that, the link to the skill
 
 2. You need an [AWS account](https://aws.amazon.com) and an [Amazon developer account](https://developer.amazon.com) to create an Alexa Skill.
 
-3. You need to install and configure the [AWS CLI]([https://aws.amazon.com/cli/](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+3. You need to install and configure the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 4. You need to install and to initialize [ASK CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html) with
 
